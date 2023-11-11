@@ -1,1 +1,1 @@
-learning GIT. First folder
+learnig git
